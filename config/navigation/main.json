@@ -10,32 +10,29 @@
     {
       "title": "Aktivitäten",
       "page": "content/media.md",
+      "showInMainNavigation": true,
       "children": [
         {
           "title": "Mischa Gohlke Band",
           "page": "content/media/videos.md",
-          "showInMainNavigation": true,
           "children": [],
           "description": ""
         },
         {
           "title": "Grenzen sind relativ e.V.",
           "page": "content/media/fotogalerien.md",
-          "showInMainNavigation": true,
           "children": [],
           "description": ""
         },
         {
           "title": "Workshops, Speaker & Aktivismus",
           "page": "content/media/pressespiegel.md",
-          "showInMainNavigation": true,
           "children": [],
           "description": ""
         },
         {
           "title": "Blog",
           "page": "content/media/gsr-ev-channel.md",
-          "showInMainNavigation": true,
           "children": [],
           "description": ""
         }
