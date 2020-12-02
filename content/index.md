@@ -1,5 +1,5 @@
 ---
-title: Grenzen sind relativ e.V.
+title: Mischa Gohlke Band
 description: 'Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden. Mit verschiedensten
   Projekten & Veranstaltungen, Kampagnen-Musikvideos, Musikunterricht, Workshops,
   Coaching, Öffentlichkeitsarbeit & Bewusstseinsbildung sowie der Vernetzung von Akteuren/Menschen
