@@ -1,4 +1,4 @@
-# mischa-gohlke
+# mischa-gohlke-band
 
 ## Build Setup
 
