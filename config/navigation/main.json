@@ -1,99 +1,55 @@
 {
   "menu": [
     {
-      "title": "Über uns",
-      "children": [
-        {
-          "title": "Mission & Vision",
-          "page": "content/ueber-uns/mission-und-vision.md"
-        },
-        {
-          "title": "Grenzen sind relativ e.V. - Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden",
-          "page": "content/ueber-uns/info.md"
-        },
-        {
-          "title": "Übersicht Aktivitäten",
-          "page": "content/ueber-uns/ubersicht-aktivitaten.md",
-          "disabled": true
-        },
-        {
-          "title": "Das Team",
-          "page": "content/ueber-uns/das-team.md"
-        },
-        {
-          "title": "Identität & Positionierung",
-          "page": "content/ueber-uns/identitat-positionierung.md"
-        },
-        {
-          "title": "Manifest ",
-          "page": "content/ueber-uns/manifest.md",
-          "disabled": true
-        },
-        {
-          "title": "Zitate",
-          "page": "content/ueber-uns/zitate.md"
-        }
-      ],
-      "showInMainNavigation": true
+      "title": "Bio / Über mich",
+      "page": "content/spenden.md",
+      "children": [],
+      "external": true,
+      "url": "/"
     },
     {
       "title": "Aktivitäten",
+      "page": "content/media.md",
       "children": [
         {
-          "external": false,
+          "title": "Mischa Gohlke Band",
+          "page": "content/media/videos.md",
           "showInMainNavigation": true,
-          "title": "Mischa Gohlke Band"
-        }
-      ],
-      "showInMainNavigation": true
-    },
-    {
-      "title": "Media",
-      "page": null,
-      "children": [
-        {
-          "title": "Videos",
-          "page": "content/media/videos.md"
+          "children": [],
+          "description": ""
         },
         {
-          "title": "Fotogalerien",
-          "page": "content/media/fotogalerien.md"
+          "title": "Grenzen sind relativ e.V.",
+          "page": "content/media/fotogalerien.md",
+          "showInMainNavigation": true,
+          "children": [],
+          "description": ""
         },
         {
-          "title": "Pressespiegel",
-          "children": [
-
-          ],
-          "page": "content/media/pressespiegel-kompakt.md"
-        },
-        {
-          "title": "GSR e.V. Channel",
-          "page": "content/media/gsr-ev-channel.md",
-          "disabled": true
+          "title": "Workshops, Speaker & Aktivismus",
+          "page": "content/media/pressespiegel.md",
+          "showInMainNavigation": true,
+          "children": [],
+          "description": ""
         },
         {
           "title": "Blog",
-          "children": [
-            {
-              "title": "Grenzen sind relativ – Musik, Hören und Inklusion ",
-              "page": "content/media/blog/grenzen-sind-relativ-musik-horen-und-inklusion.md"
-            },
-            {
-              "title": "Auf in eine neue Beziehungskultur!",
-              "page": "content/media/blog/auf-in-eine-neue-beziehungskultur.md"
-            }
-          ]
+          "page": "content/media/gsr-ev-channel.md",
+          "showInMainNavigation": true,
+          "children": [],
+          "description": ""
         }
-      ],
-      "showInMainNavigation": true
+      ]
     },
     {
-      "title": "Mitmachen",
-      "page": "content/mitmachen.md"
+      "title": "Videos/Media",
+      "page": "content/spenden.md",
+      "children": []
     },
     {
       "title": "Kontakt",
-      "page": "content/kontakt.md"
+      "page": "content/kontakt.md",
+      "children": []
     }
   ]
 }

@@ -27,7 +27,3 @@ seite:
   >> Aus Japan
 
 </div>
-
-<slideshow class="wide" name="startseite-aktivitaeten"></slideshow>
-
-<video-gallery name="startseite-video-galerie"></video-galerie>
