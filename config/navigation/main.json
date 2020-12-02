@@ -1,50 +1,34 @@
 {
   "menu": [
     {
-      "title": "Bio / Über mich",
+      "title": "Band",
       "page": "content/spenden.md",
       "children": [],
       "external": true,
       "url": "/"
     },
     {
-      "title": "Aktivitäten",
+      "title": "Videos",
       "page": "content/media.md",
-      "showInMainNavigation": true,
-      "children": [
-        {
-          "title": "Mischa Gohlke Band",
-          "page": "content/media/videos.md",
-          "children": [],
-          "description": ""
-        },
-        {
-          "title": "Grenzen sind relativ e.V.",
-          "page": "content/media/fotogalerien.md",
-          "children": [],
-          "description": ""
-        },
-        {
-          "title": "Workshops, Speaker & Aktivismus",
-          "page": "content/media/pressespiegel.md",
-          "children": [],
-          "description": ""
-        },
-        {
-          "title": "Blog",
-          "page": "content/media/gsr-ev-channel.md",
-          "children": [],
-          "description": ""
-        }
-      ]
+      "children": []
     },
     {
-      "title": "Videos/Media",
+      "title": "Presse",
       "page": "content/spenden.md",
       "children": []
     },
     {
-      "title": "Kontakt",
+      "title": "Live",
+      "page": "content/kontakt.md",
+      "children": []
+    },
+    {
+      "title": "Booking & Kontakt",
+      "page": "content/kontakt.md",
+      "children": []
+    },
+    {
+      "title": "Engagement",
       "page": "content/kontakt.md",
       "children": []
     }
