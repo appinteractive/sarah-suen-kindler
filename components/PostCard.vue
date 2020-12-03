@@ -1,7 +1,7 @@
 <template>
   <nuxt-link
     :to="link"
-    class="post-card bg-white group overflow-hidden rounded-sm border-gray-600 hover:shadow-2xl hover:border-gray-400 hover:z-0 transition duration-100"
+    class="post-card bg-gray-900 group overflow-hidden rounded-sm border-gray-800 hover:shadow-2xl hover:border-gray-800 hover:z-0 transition duration-100"
     :aria-label="`weiterlesen von ${title}`"
   >
     <div v-if="image" class="relative pb-16/9">
@@ -24,7 +24,7 @@
         &nbsp;
       </div>
       <div
-        class="absolute w-full bottom-0 left-0 h-6 bg-white"
+        class="absolute w-full bottom-0 left-0 h-6 bg-gray-900"
         aria-hidden="true"
       >
         &nbsp;

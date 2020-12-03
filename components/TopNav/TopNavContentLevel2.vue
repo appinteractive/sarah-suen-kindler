@@ -10,7 +10,7 @@
           :to="getNearestURL(level2)"
           class="font-normal text-gray-700 p-4 flex flex-col rounded level2"
           style="min-width: 20rem"
-          :class="index2 === currentIndex2 && 'bg-gray-200 text-gray-900'"
+          :class="index2 === currentIndex2 && 'bg-gray-800 text-gray-300'"
           @mouseenter.native="setLevel2($event, index2)"
         >
           <span class="group-hover:underline">{{

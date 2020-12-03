@@ -4,6 +4,8 @@
  ** Docs: https://tailwindcss.com/docs/configuration
  ** Default: https://github.com/tailwindcss/tailwindcss/blob/master/stubs/defaultConfig.stub.js
  */
+const colors = require('tailwindcss/colors')
+
 module.exports = {
   theme: {
     extend: {
@@ -37,6 +39,7 @@ module.exports = {
         ],
       },
       colors: {
+        gray: colors.coolGray,
         primary: {
           50: '#F4F8F9',
           100: '#E9F1F3',

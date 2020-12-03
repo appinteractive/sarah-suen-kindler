@@ -143,13 +143,13 @@ export default {
 
 <style lang="postcss">
 .prose {
-  @apply text-primary-700;
+  @apply text-gray-300;
 }
 .prose h1 {
-  @apply font-bold text-4xl text-primary-700;
+  @apply font-bold text-4xl text-gray-200;
 }
 .prose h2 {
-  @apply font-serif italic font-bold text-primary-600;
+  @apply font-serif italic font-bold text-gray-300;
 }
 .prose h1 + h2 {
   @apply -mt-2;
@@ -161,11 +161,11 @@ export default {
 }
 
 .prose blockquote {
-  @apply text-xl font-serif italic text-left pl-4 pr-2 border-none text-primary-600;
+  @apply text-xl font-serif italic text-left pl-4 pr-2 border-none text-gray-400;
   label: "Zitat";
 }
 .prose blockquote blockquote {
-  @apply text-base -mt-6 text-right text-pink-800 not-italic;
+  @apply text-base -mt-6 text-right text-gray-400 not-italic;
   quotes: none;
 }
 
