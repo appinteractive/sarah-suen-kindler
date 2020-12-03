@@ -11,6 +11,9 @@
     "forestry-preview": "nuxt -p 8080 -H 0.0.0.0",
     "clean": "rm -rf ./static/thumbs"
   },
+  "engines": {
+    "node": ">= 12.13.0"
+  },
   "dependencies": {
     "@nuxt/content": "^1.11.1",
     "@nuxtjs/pwa": "^3.3.2",
@@ -27,18 +30,20 @@
   },
   "devDependencies": {
     "@nuxtjs/google-analytics": "^2.4.0",
-    "@nuxtjs/tailwindcss": "^2.1.0",
+    "@nuxtjs/tailwindcss": "^3.3.1",
     "@nuxtjs/vercel-builder": "^0.18.1",
-    "@tailwindcss/typography": "^0.2.0",
+    "@tailwindcss/typography": "^0.3.1",
+    "autoprefixer": "^9",
     "babel-plugin-transform-remove-console": "^6.9.4",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.4",
     "image-size": "^0.9.3",
     "imurmurhash": "^0.1.4",
     "mkdirp": "^1.0.4",
+    "postcss": "^7",
     "prettier": "^2.2.1",
     "sharp": "^0.26.3",
-    "tailwindcss": "^1.7.6",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
     "unist-util-visit": "^2.0.3"
   }
 }
