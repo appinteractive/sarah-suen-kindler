@@ -14,7 +14,7 @@
         <div class="flex fixed bg-white z-10 top-0 left-0 px-4 py-4 md:p-0 border-b md:border-0 md:static w-full md:w-auto items-center justify-center">
           <nuxt-link to="/" class="flex items-center self-center h-full lg:w-32" aria-label="Startseite">
             <Logo
-              class="flex flex-shrink-0 flex-grow-0 text-white mr-2 lg:mr-6"
+              class="flex flex-shrink-0 flex-grow-0 mr-2 lg:mr-6"
               alt="Grenzen sind relativ e.V."
             />
           </nuxt-link>

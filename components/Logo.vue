@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import GSRLogo from '~/static/svg/logo-dark.svg?inline'
+import GSRLogo from '~/static/svg/logo-light.svg?inline'
 
 export default {
   components: {
