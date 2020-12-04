@@ -11,11 +11,13 @@ seite:
 - template: slideshow
 
 ---
-<img src="/svg/logo-dark.svg" class="text-white fill-current"></img>
+<div class="text-center flex flex-col items-center justify-center">
+  <img src="/svg/logo.svg" class="fill-current w-64"></img>
+  <h1>Sarah Suen Kindler</h1>
+</div>
 
 
 
-# Sarah Suen Kindler
 
 Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger Gitarrist Sarah Suen Kindler ist facettenreich und ebenso seine erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar Unmögliche möglich gemacht.
 
