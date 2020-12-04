@@ -1,5 +1,5 @@
 <template>
-  <aside class="lg:w-56 lg:fixed h-full border mb-12 p-6 lg:p-0 bg-gray-800 lg:bg-transparent lg:border-transparent rounded">
+  <aside class="lg:w-56 lg:fixed h-full border mb-12 p-6 lg:p-0 bg-gray-200 lg:bg-transparent lg:border-transparent rounded">
     <nav
       class="-ml-1"
       aria-label="Unternavigation"
@@ -15,8 +15,8 @@
             >
               <nuxt-link
                 :to="getNearestURL(parent)"
-                class="block p-2 py-1 hover:text-gray-900 hover:underline rounded"
-                :class="currentTitle === parent.title ? 'text-gray-900 ': 'text-gray-700'"
+                class="block p-2 py-1 hover:text-gray-100 hover:underline rounded"
+                :class="currentTitle === parent.title ? 'text-gray-100 ': 'text-gray-300'"
                 role="menuitem"
               >
                 {{ parent.title }}
@@ -28,7 +28,7 @@
               <arrow-return class="h-4 w-4 text-gray-500 mt-1 pt-1 ml-4 flex-shrink-0" />
               <nuxt-link
                 :to="getNearestURL(item)"
-                class="block p-2 py-1 text-gray-700 text-sm hover:text-gray-900 hover:underline rounded"
+                class="block p-2 py-1 text-gray-300 text-sm hover:text-gray-100 hover:underline rounded"
                 role="menuitem"
               >
                 {{ item.title }}
@@ -58,9 +58,9 @@ export default {
 
 <style lang="postcss">
 .sub-nav_main .link-active {
-  @apply text-gray-800 font-semibold;
+  @apply text-gray-200 font-semibold;
 }
 .sub-nav_sub .link-active {
-  @apply text-gray-800 font-semibold;
+  @apply text-gray-200 font-semibold;
 }
 </style>

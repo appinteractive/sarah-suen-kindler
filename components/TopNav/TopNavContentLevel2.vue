@@ -8,15 +8,15 @@
       >
         <TopNavLink
           :to="getNearestURL(level2)"
-          class="font-normal text-gray-700 p-4 flex flex-col rounded level2"
+          class="font-normal text-gray-300 p-4 flex flex-col rounded level2"
           style="min-width: 20rem"
-          :class="index2 === currentIndex2 && 'bg-gray-800 text-gray-300'"
+          :class="index2 === currentIndex2 && 'bg-gray-200 text-gray-700'"
           @mouseenter.native="setLevel2($event, index2)"
         >
           <span class="group-hover:underline">{{
             level2.title
           }}</span>
-          <!-- <p v-if="level2.description" class="text-xs text-gray-700">
+          <!-- <p v-if="level2.description" class="text-xs text-gray-300">
             {{ level2.description }}
           </p> -->
         </TopNavLink>
@@ -46,6 +46,6 @@ export default {
 
 <style lang="postcss">
 .group .level2.link-active {
-  @apply text-gray-800 font-semibold;
+  @apply text-gray-200 font-semibold;
 }
 </style>

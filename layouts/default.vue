@@ -1,5 +1,5 @@
   <template>
-  <div class="min-h-screen flex flex-col bg-gray-800 w-screen text-gray-300 antialiased leading-tight">
+  <div class="min-h-screen flex flex-col w-screen text-gray-800 antialiased leading-tight">
     <TopNavSmart :navigation="mainNav" :active-main="activeMain" :current-title="currentTitle" />
     <main class="min-h-full flex-grow" style="min-height: 30rem" role="main" aria-label="Inhalt">
       <Nuxt class="pt-32" />

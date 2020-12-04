@@ -1,5 +1,5 @@
 <template>
-  <footer class="w-full bg-gray-900 text-gray-200 bottom-0">
+  <footer class="w-full bg-gray-100 text-gray-800 bottom-0">
     <div class="container m-auto px-4 md:px-8 py-10 pb-16 lg:pb-10">
       <div class="grid lg:grid-cols-2">
         <div
@@ -7,25 +7,25 @@
           :key="col.title"
           class="flex flex-col pb-8"
         >
-          <h3 class="text-xs uppercase text-gray-200 font-bold pb-3">{{ col.title }}</h3>
+          <h3 class="text-xs uppercase text-gray-800 font-bold pb-3">{{ col.title }}</h3>
           <div>
             <div
               v-for="row in col.children"
               :key="row.title"
-              class="flex flex-col pb-1 text-gray-300"
+              class="flex flex-col pb-1 text-gray-700"
             >
-              <nuxt-link v-if="row.url" :to="row.url" class="hover:underline hover:text-white">
+              <nuxt-link v-if="row.url" :to="row.url" class="hover:underline hover:text-green-800">
                 {{ row.title }}
               </nuxt-link>
             </div>
           </div>
         </div>
         <!-- <div class="flex flex-col pb-8">
-          <h3 class="text-xs uppercase text-gray-200 font-bold pb-3">Anmeldung zum Newsletter</h3>
+          <h3 class="text-xs uppercase text-gray-800 font-bold pb-3">Anmeldung zum Newsletter</h3>
           <form @click.prevent="() => {}" class="flex flex-col">
-            <p class="text-gray-300 text-sm">Melde dich hier zu unserem Newsletter an, um über aktuelle Events und Projekte auf dem laufenden zu bleiben.</p>
-            <input type="email" aria-label="E-Mail für Newsletteranmeldung" name="email" class="rounded mt-3 py-3 px-4 bg-gray-400 text-gray-900 placeholder-black focus:bg-gray-200" placeholder="Deine E-Mail">
-            <button name="submit" type="submit" class="rounded bg-gray-900 mt-2 py-3 px-4 text-white font-bold tracking-wide" aria-label="zum Newsletter anmelden">Anmelden</button>
+            <p class="text-gray-700 text-sm">Melde dich hier zu unserem Newsletter an, um über aktuelle Events und Projekte auf dem laufenden zu bleiben.</p>
+            <input type="email" aria-label="E-Mail für Newsletteranmeldung" name="email" class="rounded mt-3 py-3 px-4 bg-gray-600 text-gray-100 placeholder-black focus:bg-gray-800" placeholder="Deine E-Mail">
+            <button name="submit" type="submit" class="rounded bg-gray-100 mt-2 py-3 px-4 text-white font-bold tracking-wide" aria-label="zum Newsletter anmelden">Anmelden</button>
           </form>
         </div> -->
       </div>
@@ -33,7 +33,7 @@
         <div class="text-sm flex flex-grow">
           {{ copyright }}
         </div>
-        <social-icons class="flex justify-end items-center text-gray-300" />
+        <social-icons class="flex justify-end items-center text-gray-700" />
       </div>
     </div>
   </footer>

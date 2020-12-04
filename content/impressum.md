@@ -9,7 +9,7 @@ alias: /impressum.html
 
 „Grenzen sind relativ e.V.“
 
-c/o Mischa Gohlke  
+c/o Sarah Suen Kindler  
  Wrangelstrasse 103  
  20235 Hamburg
 

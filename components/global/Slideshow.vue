@@ -94,7 +94,7 @@ export default {
 }
 .prose .slideshow .swiper-button-prev,
 .prose .slideshow .swiper-button-next {
-  @apply h-full p-0 m-0 top-0 px-6 from-gray-100 z-10 text-blue-700 opacity-100 font-bold !important;
+  @apply h-full p-0 m-0 top-0 px-6 from-gray-900 z-10 text-blue-700 opacity-100 font-bold !important;
 }
 .prose .slideshow .swiper-button-prev {
   @apply -ml-3 bg-gradient-to-r !important;

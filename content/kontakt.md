@@ -7,11 +7,10 @@ wide: false
 ---
 # Kontakt
 
-„Grenzen sind relativ e.V.“
+Sarah Suen Kindler
 
-c/o Mischa Gohlke  
-Wrangelstrasse 103  
-20235 Hamburg
+Mottenburter Straße 12
+22765 Hamburg
 
-E-Mail: mail@grenzensindrelativ.de  
-Telefon: +49 (0) 172 4307786 (Barbara Wetzer)
+E-Mail: mail@sarah-suen-kindler.de  
+Telefon: +49 

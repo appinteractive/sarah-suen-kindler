@@ -7,7 +7,7 @@
         class="flex items-center"
       >
         <!-- <svg
-          class="w-4 h-4 text-gray-700"
+          class="w-4 h-4 text-gray-300"
           v-if="depth > 0"
           viewBox="0 0 16 16"
           fill="currentColor"
@@ -22,7 +22,7 @@
         <nuxt-link
           v-if="breadCrumb.url"
           :to="breadCrumb.url"
-          class="block py-2 text-gray-500 font-normal hover:text-gray-800 hover:underline rounded"
+          class="block py-2 text-gray-500 font-normal hover:text-gray-200 hover:underline rounded"
           style="font-weight: normal"
         >
           {{ breadCrumb.title }}

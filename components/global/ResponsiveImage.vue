@@ -1,6 +1,6 @@
 <template>
   <figure
-    class="w-full bg-gray-200 block mb-2 mt-10 p-0 relative"
+    class="w-full bg-gray-800 block mb-2 mt-10 p-0 relative"
     style="
       background-size: cover;
       background-position: bottom;
@@ -29,7 +29,7 @@
     </transition>
     <figcaption v-if="imgTitle" class="absolute bottom-0 p-3 w-full bg-black bg-opacity-50 flex flex-col">
       <span class="text-white font-semibold">{{ imgAlt }}</span>
-      <span v-if="imgAlt !== imgTitle" class="text-gray-200 text-xs">{{ imgTitle }}</span>
+      <span v-if="imgAlt !== imgTitle" class="text-gray-800 text-xs">{{ imgTitle }}</span>
     </figcaption>
   </figure>
 </template>

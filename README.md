@@ -1,4 +1,4 @@
-# mischa-gohlke-band
+# sarah-suen-kindler-band
 
 ## Build Setup
 
