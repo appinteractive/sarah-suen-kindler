@@ -1,4 +1,4 @@
-# sarah-suen-kindler-band
+# sarah-suen-kindler
 
 ## Build Setup
 
