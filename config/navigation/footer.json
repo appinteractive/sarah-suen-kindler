@@ -17,18 +17,6 @@
         }
       ]
     },
-    {
-      "title": "Grenzen sind relativ e.V.",
-      "children": [
-        {
-          "title": "Mitmachen",
-          "page": "content/mitmachen.md"
-        },
-        {
-          "title": "Spenden",
-          "page": "content/spenden.md"
-        }
-      ]
-    }
+    {}
   ]
 }

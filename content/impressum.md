@@ -5,16 +5,12 @@ alias: /impressum.html
 ---
 # Impressum
 
-**www.grenzensindrelativ.de**
+Sarah Suen Kindler  
+ Mottenburger Straße 12
+ 22765 Hamburg
 
-„Grenzen sind relativ e.V.“
-
-c/o Sarah Suen Kindler  
- Wrangelstrasse 103  
- 20235 Hamburg
-
-E-Mail: mail@grenzensindrelativ.de  
-Telefon: +49 (0) 172 4307786 (Barbara Wetzer)
+E-Mail: mail@sarah-suen-kindler.de  
+Telefon: +49
 
 **Haftung für Inhalte**  
  Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei bekannt werden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.

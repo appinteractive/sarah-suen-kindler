@@ -16,15 +16,9 @@ export default {
   //   name: 'fade',
   //   mode: 'fade'
   // },
-  /*
-   ** Nuxt target
-   ** See https://nuxtjs.org/api/configuration-target
-   */
+
   target: 'static',
-  /*
-   ** Headers of the page
-   ** See https://nuxtjs.org/api/configuration-head
-   */
+
   head: {
     htmlAttrs: {
       lang: 'de',

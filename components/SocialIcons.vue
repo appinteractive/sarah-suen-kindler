@@ -1,6 +1,6 @@
 <template>
   <div>
-    <a
+    <!-- <a
       href="https://www.youtube.com/channel/UCvADF2ZMvSg5DonZ06Kf3KA"
       rel="noopener"
       target="_blank"
@@ -19,9 +19,9 @@
     >
       <IconInstagram class="h-5 w-5" />
       <span aria-label class="sr-only">Instagram</span>
-    </a>
+    </a> -->
     <a
-      href="https://www.facebook.com/grenzensindrelativ"
+      href="https://www.facebook.com/sarah.suen.90/"
       rel="noopener"
       target="_blank"
       title="Facebook"
@@ -30,7 +30,7 @@
       <IconFB class="h-5 w-5" />
       <span aria-label class="sr-only">Facebook</span>
     </a>
-    <a
+   <!--  <a
       href="https://twitter.com/GSR_eV"
       rel="noopener"
       target="_blank"
@@ -39,7 +39,7 @@
     >
       <IconTwitter class="h-5 w-5" />
       <span aria-label class="sr-only">Twitter</span>
-    </a>
+    </a> -->
   </div>
 </template>
 

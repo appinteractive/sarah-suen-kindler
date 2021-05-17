@@ -44,7 +44,7 @@
           </button>
         </div>
         <ul
-          class="mt-12 md:mt-0 pt-1 flex-grow justify-center"
+          class="mt-12 md:mt-0 pt-1 w-full flex-grow justify-center"
           @mouseleave="closeDelayed"
           mouseenter="clearDelay"
           aria-label="Seiten"

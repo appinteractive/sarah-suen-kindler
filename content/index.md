@@ -6,23 +6,14 @@ description: 'Aktionsbüro für Kultur, Gesellschaft, Inklusion & Frieden. Mit v
   setzen wir uns für eine inklusive, integrale und friedliche Gesellschaft ein. '
 teaser: "/media/2020/10/social-banner-2020-5.jpg"
 wide: true
-seite:
-- template: seite
-- template: slideshow
 
 ---
-<div class="text-center flex flex-col items-center justify-center">
-  <img src="/svg/logo.svg" class="fill-current w-64"></img>
-  <h1>Sarah Suen Kindler</h1>
+
+![Sarah Suen Kindle text](/media/2021/main-image.png)
+
+<intro></intro>
+
+<div class="text-center flex flex-col items-center justify-center mt-24">
+  <img src="/svg/logo.svg" class="fill-current w-24 rounded-full ring-2 ring-white border-white shadow-2xl"><img>
 </div>
-
-
-
-
-Musiker. Aktivist. Speaker. Kulturmanager. Autor. Dozent. Inklusionsbotschafter. Und vor allem Mensch. Der Hamburger Gitarrist Sarah Suen Kindler ist facettenreich und ebenso seine erstaunliche Biographie. Mit einer an Taubheit grenzenden Hörschädigung ist er erfolgreich den Weg als Profimusiker gegangen und hat damit das scheinbar Unmögliche möglich gemacht.
-
-In der nach ihm benannten „Sarah Suen Kindler“ fließen englisch- & deutschsprachige Eigenkompositionen zu einer explosiven Melange aus Blues-, Funk-, Rock- und Pop-Elementen zusammen und stehen Songinterpretationen von Jimi Hendrix & Stevie Ray Vaughan, die immer mal wieder in das Live-Programm einfließen, in nichts nach.
-
-Komplettiert wird die Band durch den aus Los Angeles stammenden Multiinstrumentalisten Rico Bowen (Vocals, Bass), der bereits mit Weltstars wie Madonna und Shakira auf Tour gewesen ist, sowie den gebürtigen Rheinländer und studierten Jazz-Schlagzeuger Alex Jezdinsky (Nils Frevert, Gisbert zu Knyphausen).
-
-Eine elektrisierende Mischung, die nicht nur musikalische Grenzen verschwimmen lässt. 
+  

@@ -9,7 +9,7 @@ wide: false
 
 Sarah Suen Kindler
 
-Mottenburter Straße 12
+Mottenburger Straße 12
 22765 Hamburg
 
 E-Mail: mail@sarah-suen-kindler.de  

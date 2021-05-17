@@ -1,34 +1,24 @@
 {
   "menu": [
     {
-      "title": "Band",
-      "page": "content/spenden.md",
+      "title": "Über mich",
+      "page": "content/ueber-mich.md",
       "children": [],
       "external": true,
       "url": "/"
     },
     {
-      "title": "Videos",
-      "page": "content/media.md",
+      "title": "Tuina Massage",
+      "page": "content/tuina-massage.md",
       "children": []
     },
     {
-      "title": "Presse",
-      "page": "content/spenden.md",
+      "title": "Schröpfen",
+      "page": "content/schroepfen.md",
       "children": []
     },
     {
-      "title": "Live",
-      "page": "content/kontakt.md",
-      "children": []
-    },
-    {
-      "title": "Booking & Kontakt",
-      "page": "content/kontakt.md",
-      "children": []
-    },
-    {
-      "title": "Engagement",
+      "title": "Kontakt",
       "page": "content/kontakt.md",
       "children": []
     }
